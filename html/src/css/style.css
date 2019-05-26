@@ -1,0 +1,28 @@
+body {
+    background-color: #635c66;
+  }
+  
+  .contenedor{
+    margin: auto;
+    width: 120px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  #dice{
+    width: 100px;
+    height: 100px;
+    background-color: #FFFF;
+    border-radius: 5px;
+    font-size: 70px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  #button{
+    margin: 10px;
+    border-radius: 2px;
+  }
